@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "JHd8ie1uJWq6ITMaOs9owLrBPjpCGMUm39ufs4OCWbM=",
+  "Source": "SerializerInClassroom",
+  "BasePath": "_content/SerializerInClassroom",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SerializerInClassroom\\wwwroot",
+      "Source": "SerializerInClassroom",
+      "ContentRoot": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\",
+      "BasePath": "_content/SerializerInClassroom",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\documents\\people.xml",
+      "SourceId": "SerializerInClassroom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\",
+      "BasePath": "_content/SerializerInClassroom",
+      "RelativePath": "documents/people.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\people.xml"
+    },
+    {
+      "Identity": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\documents\\people.json",
+      "SourceId": "SerializerInClassroom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\",
+      "BasePath": "_content/SerializerInClassroom",
+      "RelativePath": "documents/people.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\people.json"
+    }
+  ]
+}

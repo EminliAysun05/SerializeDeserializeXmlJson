@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\documents\\people.json",
+      "PackagePath": "staticwebassets\\documents\\people.json"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\source\\repos\\SerializerInClassroom\\SerializerInClassroom\\wwwroot\\documents\\people.xml",
+      "PackagePath": "staticwebassets\\documents\\people.xml"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SerializerInClassroom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SerializerInClassroom.props",
+      "PackagePath": "build\\SerializerInClassroom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SerializerInClassroom.props",
+      "PackagePath": "buildMultiTargeting\\SerializerInClassroom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SerializerInClassroom.props",
+      "PackagePath": "buildTransitive\\SerializerInClassroom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

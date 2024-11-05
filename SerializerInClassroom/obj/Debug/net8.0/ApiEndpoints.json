@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SerializerInClassroom.Controllers.PeopleController",
+    "Method": "GetAll",
+    "RelativePath": "api/People",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerializerInClassroom.Controllers.PeopleController",
+    "Method": "Create",
+    "RelativePath": "api/People",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "SerializerInClassroom.Models.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
